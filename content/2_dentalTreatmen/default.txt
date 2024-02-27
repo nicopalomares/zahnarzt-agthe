@@ -2,5 +2,8 @@ Title: dental treatment
 
 ----
 
+Headlings: [{"content":{"level":"h2","text":"<strong>ZAHNBEHANDLUNG FÜR JUNG UND ALT</strong>"},"id":"78736803-649c-4631-919b-d72b7d8ef7b1","isHidden":false,"type":"heading"},{"content":{"text":"<p>Zahnärztin Ines Agthe versteht sich mit ihrem Team als Zahnarztpraxis für <strong>Patienten aller Altersgruppen</strong>.</p><p>Wenn Sie einen <strong>Kinderzahnarzt</strong> suchen: ein lachendes Kind hat keine Angst. Außerdem sind Kinder meistens neugierig, zum Beispiel auf den Besuch beim <strong>Kinderspass-Zahnarzt</strong>: zaubern, staunen, Angst vergessen ...</p>"},"id":"24c01dcf-f9a0-4150-86c6-0f6f2d022109","isHidden":false,"type":"text"}]
+
+----
 
 Uuid: yuKAkSGYqcrcRkRA

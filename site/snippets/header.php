@@ -16,7 +16,7 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
   <header>
   <nav>
-    <ul>
+    <ul class="menu">
         <?php foreach ($pages->listed() as $page): ?>
             <li>
                 <a href="<?= $page->url() ?>">
@@ -24,7 +24,7 @@
                 </a>
                 <div >
                 <?php if ($page->hasChildren()): ?>
-                    <ul>
+                    <ul class="dropdownList">
                         <?php foreach ($page->children()->listed() as $child): ?>
                             <li>
                                 <a href="<?= $child->url() ?>">

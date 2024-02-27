@@ -2,4 +2,8 @@ Title: Dental Practice
 
 ----
 
+Headlings: [{"content":{"level":"h2","text":"<a href=\"https://www.zahnarzt-agthe.de/cms/zahnarztpraxis/so-finden-sie-zu-uns.php\">Ihre Zahnarztpraxis in Leipzig, Südvorstadt</a>"},"id":"2e4d083c-9c34-48cf-aaab-8d29abc517ba","isHidden":false,"type":"heading"},{"content":{"text":"<p>Keine Angst vorm Zahnarzt! In unserer Leipziger Zahnarztpraxis sind <strong>Patienten jeden Alters</strong> willkommen. Vom ersten Zahnarztbesuch der Jüngsten bis hin ins hohe Alter. Wir kümmern uns um Ihre Zähne: Beratung, Zahnbehandlung, Zahnersatz und Zahnreinigung, Funktionsdiagnostik und -therapie. Für gesunde Zähne ein Leben lang.  <a href=\"https://www.zahnarzt-agthe.de/cms/zahnbehandlung.php\">» mehr</a></p>"},"id":"e512a275-4174-42af-84c5-71265f0ac1d2","isHidden":false,"type":"text"}]
+
+----
+
 Uuid: 71KSOv2JkCW6GjBt
